@@ -1,1 +1,1 @@
-console.log("Navbar Feature Added");
+console.log("Navbar v2");
